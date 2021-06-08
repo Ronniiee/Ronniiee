@@ -5,7 +5,7 @@ I own [Chaottiic.com](https://chaottiic.com), a Resource Marketplace for any typ
 
 
 ## How to reach me 📫
-- **[Chaottiic Discord](https://chaottiic.com/discord)** - or Chaottiic#4088
+- **[Chaottiic Discord](https://chaottiic.com/discord)** - or Ronnie#1212
 - **[SnapChat](https://www.snapchat.com/add/yeetingmyself69)** or @yeetingmyself69
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Chaottiic&theme=dark&show_icons=true)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Ronniiee&theme=dark&show_icons=true)

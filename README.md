@@ -5,19 +5,19 @@
 
 - 📙 I'm currently learning **ReactJS, and Swift**
 
-- 💤 One of my useless, yet fun projects is [RandomHomes](https://random.homes)
+- 💤 One of my useless, yet fun projects is [Random.Homes](https://random.homes)
 
-- 👥 My collaborative project is [Flux](https://flux.ronniie.com)
+- 👥 One of my collaborative projects is [Flux](https://flux.ronniie.com)
 
 - 👨‍💻 My Projects are available at [https://portfolio.ronniie.com](https://portfolio.ronniie.com)
 
-- 📝 My Blog [https://blog.ronniie.com](https://blog.ronniie.com)
+- 📝 My Blog is at [https://blog.ronniie.com](https://blog.ronniie.com)
 
-- 💬 Ask me **Django, Flask, NodeJS**
+- 💬 Ask me about, **Django, Flask, NodeJS**!
 
 - 📫 Reach me at **email@ronniie.com**
 
-- 📄 My Resume [https://ronniie.com/resume](https://ronniie.com/resume)
+- 📄 My Resume is at [https://ronniie.com/resume](https://ronniie.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

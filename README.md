@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronniie&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="ronniie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronniie&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="ronniie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronniie&theme=dark" alt="ronniie" /></p>

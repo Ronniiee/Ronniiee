@@ -9,7 +9,7 @@
 
 - 👥 One of my collaborative projects is [Flux](https://flux.ronniie.com)
 
-- 👨‍💻 My Projects are available at [https://portfolio.ronniie.com](https://portfolio.ronniie.com)
+- 👨‍💻 My Projects are available at [https://portfolio.ronniie.com](https://projects.ronniie.com)
 
 - 📝 My Blog is at [https://blog.ronniie.com](https://blog.ronniie.com)
 

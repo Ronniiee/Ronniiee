@@ -1,23 +1,13 @@
 <h1 align="center">👋 Hi! I'm Ronnie</h1>
 <h3 align="center">Developer of all kinds!</h3>
 
-- 🔭 I'm mainly working on [My Website](https://ronniie.com)
+- 🔭 I'm mainly working on [NullDaily LLC](https://nulldaily.com)
 
 - 📙 I'm currently learning **ReactJS, and Swift**
-
-- 💤 One of my useless, yet fun projects is [Random.Homes](https://random.homes)
-
-- 👥 One of my collaborative projects is [Flux](https://flux.ronniie.com)
-
-- 👨‍💻 My Projects are available at [https://portfolio.ronniie.com](https://projects.ronniie.com)
-
-- 📝 My Blog is at [https://blog.ronniie.com](https://blog.ronniie.com)
 
 - 💬 Ask me about, **Django, Flask, NodeJS**!
 
 - 📫 Reach me at **email@ronniie.com**
-
-- 📄 My Resume is at [https://ronniie.com/resume](https://ronniie.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -100,8 +100,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-My blog is currently unreachable. This is where posts would be!
+<!-- BLOG-POST-LIST:START -->
+- [Introducing My Vision: Empowering Through Innovation](https://ronniie.com/blog/brand-new-site/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

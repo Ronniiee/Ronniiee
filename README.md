@@ -101,7 +101,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+My blog is currently unreachable. This is where posts would be!
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -125,4 +125,4 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Ronniie/Ronniie/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ronniie/Ronniie/output/snake.svg" alt="Snake playing in my code!" />
